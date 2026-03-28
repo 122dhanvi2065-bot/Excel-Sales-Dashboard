@@ -1,11 +1,11 @@
-# Amazon Sales Data Analysis using Excel
+# Myntra Sales Data Analysis using Excel
 
 ## 📌 Project Overview
-This project analyzes Amazon sales data using Microsoft Excel. 
+This project analyzes Myntra sales data using Microsoft Excel. 
 The dataset is explored using pivot tables, charts, and data visualization techniques to generate useful business insights.
 
 ## 📊 Dataset
-The dataset contains information about Amazon products such as:
+The dataset contains information about Myntra products such as:
 - Product category
 - Sales data
 - Ratings
